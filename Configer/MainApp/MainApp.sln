@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainApp", "MainApp\MainApp.csproj", "{B4728BDD-35F7-4D4A-B681-2BE80897597D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientDLL", "..\SocketClientDLL\ClientDLL.csproj", "{07E1D099-5FBD-4AA2-B24B-289BDCA0B7A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4728BDD-35F7-4D4A-B681-2BE80897597D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4728BDD-35F7-4D4A-B681-2BE80897597D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4728BDD-35F7-4D4A-B681-2BE80897597D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4728BDD-35F7-4D4A-B681-2BE80897597D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07E1D099-5FBD-4AA2-B24B-289BDCA0B7A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E1D099-5FBD-4AA2-B24B-289BDCA0B7A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E1D099-5FBD-4AA2-B24B-289BDCA0B7A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E1D099-5FBD-4AA2-B24B-289BDCA0B7A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

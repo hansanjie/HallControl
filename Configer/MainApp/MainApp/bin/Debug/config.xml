@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Data>
+    <IP>127.0.0.1</IP>
+    <Port>30001</Port>
+	<WebPort>30002</WebPort>
+	<FtpPort>30009</FtpPort>
+    <Width>1920</Width>
+    <Height>1080</Height>
+    <Left>0</Left>
+    <Top>0</Top>
+</Data>
